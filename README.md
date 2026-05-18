@@ -95,8 +95,8 @@ Assets_EndTermProj_1st/
 │   ├── Game_Screenshot_6_Paused.png
 │   └── Game_Screenshot_7_HighScore.png
 │
-├── 2P1_2341011203_01.pdf      # Project Report
-└── 2P1_2341011203_01.docx     # Documentation
+
+
 ```
 
 ---
